@@ -1,6 +1,3 @@
-# Elevvo-Pathways-Tasks
-This repository contains three machine learning tasks completed for the Elevvo Pathways Internship, covering regression, classification, and clustering. It showcases core ML steps including preprocessing, model training, evaluation, and visualization.
-
 # Elevvo Pathways Tasks 🚀
 
 This repository holds three machine learning projects completed during the Elevvo Pathways Internship (Machine Learning track). They cover **regression**, **classification**, and **clustering** — each illustrating the ML workflow: data preprocessing, model training, evaluation, and visualization.
