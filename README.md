@@ -28,5 +28,5 @@ This repo is a record of my internship at Elevvo pathways work and a practical r
 
 ---
 
-🔗 <a href="https://www.linkedin.com/in/mohammed-sa3ied" target="_blank">My LinkedIn</a>  
+🔗 [My LinkedIn ↗](https://www.linkedin.com/in/mohammed-sa3ied)
 
