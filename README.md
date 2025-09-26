@@ -9,9 +9,9 @@ This repository holds three machine learning projects completed during the Elevv
 
 | Task | Title | Method | Key Results |
 |------|-------|--------|-------------|
-| Task 1 | Student Score Prediction | Linear Regression | R² = 0.93, MAE = 2.1 |
+| Task 1 | Student Score Prediction | Linear Regression | R² = 0.99, MAE = 0.27 |
 | Task 2 | Customer Segmentation | K-Means Clustering | Silhouette Score = 0.56 |
-| Task 3 | Loan Approval Prediction | Logistic Regression | Accuracy = 0.84, F1-score = 0.81 |
+| Task 4 | Loan Approval Prediction | Logistic Regression | Accuracy = 0.96, F1-score = 0.97 |
 
 Each folder contains a notebook/script with the full workflow and visuals.
 
@@ -24,7 +24,7 @@ Each folder contains a notebook/script with the full workflow and visuals.
 
 ## 🎯 Purpose
 
-This repo is a record of my internship work and a practical reference for applying core ML techniques, from data preparation to evaluation and visualization.
+This repo is a record of my internship at Elevvo pathways work and a practical reference for applying core ML techniques, from data preparation to evaluation and visualization.
 
 ---
 
