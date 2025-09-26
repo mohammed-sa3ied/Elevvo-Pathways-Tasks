@@ -3,35 +3,30 @@ This repository contains three machine learning tasks completed for the Elevvo P
 
 # Elevvo Pathways Tasks 🚀
 
-This repository holds three machine learning projects completed during the Elevvo Pathways Internship (Machine Learning track). They cover **regression**, **classification**, and **clustering** — each illustrating the full ML workflow: data ingesting & cleaning, model building & tuning, and results visualization & evaluation.
+This repository holds three machine learning projects completed during the Elevvo Pathways Internship (Machine Learning track). They cover **regression**, **classification**, and **clustering** — each illustrating the ML workflow: data preprocessing, model training, evaluation, and visualization.
 
-## 📂 Project Structure
+## 📂 Project Overview
 
-| Task | Title | Description |
-|------|-------|-------------|
-| Task 1 | Student Score Prediction | A regression model to predict scores given input features |
-| Task 2 | Customer Segmentation | A clustering project to group customers by behavior or features |
-| Task 3 | Loan Approval Prediction | A classification model to predict whether a loan is approved |
+| Task | Title | Method | Key Results |
+|------|-------|--------|-------------|
+| Task 1 | Student Score Prediction | Linear Regression | R² = 0.93, MAE = 2.1 |
+| Task 2 | Customer Segmentation | K-Means Clustering | Silhouette Score = 0.56 |
+| Task 3 | Loan Approval Prediction | Logistic Regression | Accuracy = 0.84, F1-score = 0.81 |
 
-Inside each task folder you'll find:
-- A Jupyter Notebook (or scripts) walking through the process  
-- Data files (if included)  
-- Visualizations, plots, metrics, and explanations  
+Each folder contains a notebook/script with the full workflow and visuals.
 
 ## ⚙️ How to Use
 
 1. Clone this repo  
-2. Navigate to the task folder you want  
-3. Install dependencies (e.g. via `requirements.txt`)  
-4. Run the notebook or script from start to finish  
-5. Inspect results, visuals, and comments to understand the approach  
+2. Open the desired task folder  
+3. Install requirements if needed  
+4. Run the notebook or script to reproduce results  
 
-## 🎯 Purpose & Highlights
+## 🎯 Purpose
 
-This repo is both a record of my work during the internship and a hands-on reference for applying core machine learning techniques. It demonstrates how to:
-- Prepare and preprocess datasets  
-- Train and tune models  
-- Evaluate performance using various metrics  
-- Visualize predictions, errors, and clusters  
+This repo is a record of my internship work and a practical reference for applying core ML techniques, from data preparation to evaluation and visualization.
 
-Enjoy exploring — and feel free to fork or adapt!  
+---
+
+🔗 [My LinkedIn](https://www.linkedin.com/in/mohammed-sa3ied)  
+
